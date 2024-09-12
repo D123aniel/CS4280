@@ -1,4 +1,4 @@
-# CS4280 Projects
+# CS4280 Advanced Java Projects
 Jan 2023-May 2023 North Carolina School of Science and Mathematics
 
 Projects made using Java, JavaFX in VSCode IDE
