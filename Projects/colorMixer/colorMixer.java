@@ -8,13 +8,11 @@ import javafx.stage.Stage;
 import javafx.scene.layout.VBox;
 import javafx.geometry.Pos;
 import javafx.scene.control.Label;
-import javafx.scene.control.Button;
 import javafx.scene.control.ComboBox;
 import javafx.scene.layout.GridPane;
 import javafx.geometry.Insets; 
 import javafx.scene.control.Slider;
 import javafx.scene.paint.Color;
-import javafx.scene.paint.Paint;
 import javafx.scene.layout.Background;
 import javafx.scene.layout.BackgroundFill;
 
